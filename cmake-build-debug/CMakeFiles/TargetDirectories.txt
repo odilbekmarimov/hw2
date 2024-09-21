@@ -1,0 +1,7 @@
+/Users/o.marimov/CLionProjects/hw2/cmake-build-debug/CMakeFiles/hw2.dir
+/Users/o.marimov/CLionProjects/hw2/cmake-build-debug/CMakeFiles/problem2.dir
+/Users/o.marimov/CLionProjects/hw2/cmake-build-debug/CMakeFiles/problem3.dir
+/Users/o.marimov/CLionProjects/hw2/cmake-build-debug/CMakeFiles/problem4.dir
+/Users/o.marimov/CLionProjects/hw2/cmake-build-debug/CMakeFiles/problem5.dir
+/Users/o.marimov/CLionProjects/hw2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/o.marimov/CLionProjects/hw2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
